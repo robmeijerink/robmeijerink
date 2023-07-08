@@ -22,6 +22,7 @@
 
 ## 💬 How to reach me
 - Email: rob.meijerink@gmail.com
+- GPG Public Key: [2C912C5AC0ED7E183DB02139DCDF179DA8A64DCE](https://keys.mailvelope.com/pks/lookup?op=get&search=rob.meijerink%40gmail.com)
 
 ## 💪 How to support me
 - BTC: `bc1qgx2kqw7uwg70tlsgxem752c98mmkjde8vey037`
