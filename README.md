@@ -3,12 +3,13 @@
 
 ## 🕐 Currently Working
 - Engineering scalable cloud environments.
-- Developing critical high performance microservices.
-- Developing eCommerce and Saas platforms in Laravel.
+- Developing critical high performance microservices and developer CLI tools in Go.
+- Developing eCommerce and SaaS platforms in Laravel.
 - Developing performant WordPress websites with the Roots stack.
+- Building agentic AI systems using Rust.
 - Developing IOT and embedded systems, just for fun.
 
-## ❤️ Technologies I love
+## 🎯 Core Disciplines
 - Cloud Engineering
 - DevOps
 - Application Engineering
@@ -16,12 +17,20 @@
 - IOT
 - Embedded System Development
 
-## 🖥️ Programming Languages
-`JavaScript` `TypeScript` `Go / Golang` `Rust` `PHP` `Python` `Lua` `SQL`
+## ⚙️ DevOps & Cloud Stack
+- Infrastructure as Code (IaC): Terraform, Ansible
+- Containerization: Docker
+- Task Automation & Build Tools: Taskfile
+- Cloud Infrastructure Management
 
+## 💻 Terminal & OS
+`Fedora` `Wayland` `Sway` `Alacritty` `Tmux` `Neovim`
+
+## 🖥️ Programming Languages
+ `Rust` `JavaScript` `TypeScript` `Go / Golang` `PHP` `Python` `Lua` `SQL`
 
 ## 🧰 Technologies I use
-`Laravel` `Vue` `SolidJS` `NodeJS` `ExpressJS` `NextJS` `Fiber (Go)` `WordPress` `Roots Sage / Acorn` `Tailwind CSS` `Git` `nginx` `Apache` `Linux` `Github Actions` `Postgres` `MySQL` `MariaDB` `Docker` `AWS` `Redis` `Memcached` `Terraform` `Kubernetes` `Traefik`
+`Laravel` `Fiber (Go)` `Chi (Go)` `Node.js` `ExpressJS` `WordPress` `Roots Sage / Acorn` `Vue.js` `Tailwind CSS` `PostgreSQL` `MySQL` `MariaDB` `SQLite` `Redis` `Memcached` `AWS` `Google Cloud` `Docker` `Kubernetes` `Terraform` `Ansible` `GitHub Actions` `Git` `Linux` `nginx` `Apache` `Traefik`
 
 ## 💬 How to reach me
 - Email: rob.meijerink@gmail.com
