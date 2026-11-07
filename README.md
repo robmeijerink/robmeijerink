@@ -20,8 +20,8 @@
 ## ⚙️ DevOps & Cloud Stack
 - Infrastructure as Code (IaC): Terraform, Ansible
 - Containerization: Docker
-- Task Automation & Build Tools: Taskfile
 - Cloud Infrastructure Management
+- Kubernetes
 
 ## 💻 Terminal & OS
 `Fedora` `Wayland` `Sway` `Alacritty` `Tmux` `Neovim`
