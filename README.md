@@ -11,6 +11,7 @@
 - Developing IOT and embedded systems, just for fun.
 
 ## 🎯 Core Disciplines
+- Software Engineering
 - Cloud Engineering
 - DevOps
 - Application Engineering
