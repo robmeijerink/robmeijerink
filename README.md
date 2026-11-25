@@ -1,4 +1,4 @@
-# Hi, I'm Rob 👋
+# Hi, I'm Rob ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 #### Full Stack Software Engineer from Zutphen, The Netherlands. A big fan of Linux & Open Source Software and everyday user of Neovim. I love to code and develop useful and scalable applications that matter, like business-critical software: eCommerce platforms, business systems such as CRM, ERP and WMS, and the APIs that connect them. From architecture to production.
 
 ## 🕐 Currently Working
