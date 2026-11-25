@@ -33,7 +33,7 @@
 `PHP` `Rust` `JavaScript` `TypeScript` `Go / Golang` `Python` `Lua` `SQL`
 
 ## 🧰 Technologies I use
-`Laravel` `Axum` `Tokio` `Actix Web` `Fiber (Go)` `Chi (Go)` `Node.js` `WordPress` `Roots Sage / Acorn` `React.js` `Vue.js` `Tailwind CSS` `PostgreSQL` `MySQL / MariaDB` `AWS` `Google Cloud` `Docker` `Kubernetes` `Terraform` `OpenTofu` `Ansible` `GitHub Actions` `Git` `Linux` `Agentic AI`
+`Laravel` `Axum` `Tokio` `Actix Web` `Fiber (Go)` `Chi (Go)` `Node.js` `WordPress` `Roots Sage / Acorn` `React.js` `Vue.js` `Tailwind CSS` `PostgreSQL` `MySQL / MariaDB` `AWS` `Google Cloud` `Docker` `Kubernetes` `Helm` `Argo CD` `Flux` `Terraform` `OpenTofu` `Ansible` `GitHub Actions` `Git` `Linux` `Agentic AI`
 
 ## 💬 How to reach me
 - Email: rob.meijerink@gmail.com
